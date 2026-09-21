@@ -4,9 +4,7 @@
 
 <h4 align="center">🌸 Estudiante de Ingeniería de Ejecución en Computación e Informática | ✨ Desarrolladora Full-Stack</h4>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D6336C&center=true&vCenter=true&width=600&lines=Estudiante+en+la+UBB%2C+Concepci%C3%B3n" />
-</p>
+
 
 
 
