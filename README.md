@@ -4,14 +4,11 @@
 
 <h4 align="center">🎓 Estudiante de Ingeniería de Ejecución en Computación e Informática | 💻 Desarrolladora Full-Stack</h4>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2C5F6F&center=true&vCenter=true&width=600&lines=Estudiante+en+la+UBB%2C+Concepci%C3%B3n;Construyendo+un+sistema+de+gesti%C3%B3n+para+un+CESFAM;Stack%3A+PERN+%2B+TypeScript+%2B+Docker" />
-</p>
+
 
 <br/>
 
 Estudiante en la Universidad del Bío-Bío (UBB), Concepción.
-
 
 <br/>
 
